@@ -1,0 +1,26 @@
+.conteudo-categorias{
+    display: grid;
+    grid-template-columns: 90% 19.5%;
+    grid-template-rows: auto;
+}
+
+.conteudo-categorias ul{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+    
+}
+
+.conteudo-categorias ul li{
+    margin-right: 13em;
+    list-style: none;
+    
+}
+
+.conteudo-categorias input{
+    margin: 1em 10em 2em 0em;
+    border-radius: .3em;
+ 
+}
+

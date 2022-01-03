@@ -1,0 +1,15 @@
+.lista-cards{
+    color: brown;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+   
+}
+
+
+.lista-cards li{
+    list-style: none;
+
+}
